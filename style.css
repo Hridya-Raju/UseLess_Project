@@ -1,0 +1,60 @@
+body{
+  background-image: url(img/photo-1585620385456-4759f9b5c7d9.jpeg);
+}
+
+h1{
+  color: white;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 130px;
+  padding: 0%;
+  margin: 0%;
+  line-height: 1;
+}
+
+.abc{
+  font-size: 130px;
+  color: #d82a1d;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1;
+}
+
+.the{
+  font-size: 40px;
+  line-height: 1;
+}
+
+.tag{
+  color: #5959c3;
+  font-size: 30px;
+  line-height: 0.5;
+  margin: 2%;
+}
+
+.down{
+  width: 20%;
+  margin: 0%;
+  padding: 0%;
+  margin-left: -5%;
+  display: inline;
+}
+
+h2{
+  color: white;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  /* font-size: 100px; */
+  padding: 0%;
+  margin: 0%;
+  /* display: inline; */
+
+}
+
+.divv{
+  margin-top: -8%;
+  margin-left: 13%;
+}
